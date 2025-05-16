@@ -71,6 +71,7 @@ passwordGenerator()
             <label for="characterInput">🔠 Include Symbols</label>
         </div>
     </div>
+    <h1>jatin</h1>
 </div>
 
   )
